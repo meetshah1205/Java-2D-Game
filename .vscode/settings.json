@@ -1,0 +1,5 @@
+{
+  "java.home": "C:/path/to/your/java/jdk",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.autoSave": "afterDelay"
+}
